@@ -1,0 +1,7 @@
+@analyze_option{
+    strategy = HCS;
+    analysis_kind = simulate[slice = true, reset = true, multiply = false, loop max depth];
+    local_analysis = true;
+    goal = WeakPass;
+	priorities = [simu=-1];
+}
