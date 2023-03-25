@@ -72,9 +72,9 @@ and draw scatterplots to represent the results graphically.
 In those plots, each point corresponds to a given multi-trace.
 Its position corresponds to the time taken to analyse it (on the *y* axis), and its length i.e. total number of actions (on the *x* axis, with some jitter added to better see distinct points).
 The color represents the verdict, 
-<span style="color:blue">*blue*text</span> for <span style="color:blue">Pass</span> 
+<span style="color:blue">*blue*</span> for <span style="color:blue">Pass</span> 
 and 
-<span style="color:orange">*orange*text</span> for <span style="color:orange">Inconc</span>.
+<span style="color:orange">*orange*</span> for <span style="color:orange">Inconc</span>.
 
 
 The raw data used to produce the following plot is given in the "i1_results_on_pregen_data.csv" and "i2_results_on_pregen_data.csv" files.
